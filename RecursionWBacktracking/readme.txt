@@ -1,0 +1,1 @@
+1)palindrome partitioning-:recyrsion with packtracking

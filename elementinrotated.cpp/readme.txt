@@ -1,0 +1,1 @@
+1) find element in rotated array ->compare element with high & low to find out the unsorted part of the aray.Find pivot like that
